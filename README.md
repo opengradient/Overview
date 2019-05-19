@@ -14,10 +14,9 @@ Awareness of the aggregate cultural type or types within a firm is as relevant t
 #### Conduct risk monitoring
 Data to monitor conduct risk can come in many forms and from many sources. The tools to gather and analyse that data are evolving at a significant pace and are also being made publicly available to data scientists via the open source community.
 
-While much of the research focus around corporate culture involves traditional statistics and behavioural science, the research focus around conduct risk monitoring is centred in data science and machine learning. ML_Supervisor is a product 
-of this research push.
- 
-ML_Supervisor is a conduct risk monitoring tool that uses natural language processing algorithms to help risk staff search for and extract target content of interest from electronic communications. 
+While much of the research focus around corporate culture involves traditional statistics and behavioural science, the research focus around conduct risk monitoring is centred in data science and machine learning. 
+
+ML_Supervisor is one of the  products of this research and it relies upon machine learning algorithms to search for target content relating to conduct risk. It is a conduct risk monitoring tool that uses natural language processing algorithms to help risk staff search for and extract target content of interest from electronic communications. 
 
 If you'd like to hear more about the research currently underway at Open Gradient please get in touch(client.services@opengradient.com).
 
