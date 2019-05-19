@@ -17,7 +17,7 @@ Data to monitor conduct risk can come in many forms and from many sources. The t
 While much of the research focus around corporate culture involves traditional statistics and behavioural science, the research focus around conduct risk monitoring is centred in data science and machine learning. ML_Supervisor is a product 
 of this research push.
  
-ML_Supervisor is a conduct risk monitoring tool that uses natural language processing algorithms to help risk staff search and extract target content from electronic communications. 
+ML_Supervisor is a conduct risk monitoring tool that uses natural language processing algorithms to help risk staff search for and extract target content of interest from electronic communications. 
 
 If you'd like to hear more about the research currently underway at Open Gradient please get in touch(client.services@opengradient.com).
 
